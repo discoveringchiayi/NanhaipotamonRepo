@@ -311,7 +311,7 @@ var APP_DATA = {
           "yaw": 0.12203474972762152,
           "pitch": 0.4468343525621137,
           "title": "南海溪蟹的家",
-          "text": "Text"
+          "text": "<img src=\"img/sample.jpg\" width=\"250\" />"
         }
       ]
     },
