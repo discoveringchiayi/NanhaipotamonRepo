@@ -437,6 +437,8 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
   opacity: 0.9;
   -webkit-transition: opacity 0.2s 0.2s;
   transition: opacity 0.2s 0.2s;
+  background-color: rgba(255, 100, 100, 0.9); /* 背景：淡紅 */
+  border: 2px solid #ff6464; /* 外框：亮紅 */
 }
 
 .no-touch .info-hotspot:hover {
@@ -447,6 +449,11 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
 
 .info-hotspot.visible {
   opacity: 1;
+}
+
+/* 滑鼠移過去變色 */
+.info-hotspot:hover .info-hotspot-icon {
+  background-color: rgba(255, 200, 200, 1);
 }
 
 .info-hotspot .info-hotspot-header {
