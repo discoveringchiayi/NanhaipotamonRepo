@@ -656,7 +656,7 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
   height: 100%;
   overflow: hidden;
   z-index: 11000 !important;
-  background-color: rgba(255, 100, 100, 0.9);
+  background-color: rgba(0,0,0,.5);
   line-height: 1.2em;
   opacity: 0;
   visibility: hidden;
