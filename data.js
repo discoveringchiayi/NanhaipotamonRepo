@@ -358,7 +358,14 @@ var APP_DATA = {
           "target": "6-7"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": 2.4539359191451258,
+          "pitch": 0.6596567361824892,
+          "title": "南海溪蟹的家",
+          "text": "<img src=\"img/sample3.jpg\" width=\"250\" />"
+        }
+      ]
     },
     {
       "id": "8-9",
